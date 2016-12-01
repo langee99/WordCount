@@ -1,5 +1,5 @@
 # WordCount
-My own implementation of wc for my Systems programming course.
+My own implementation of wc
 
 #### Usage
 ```bash
